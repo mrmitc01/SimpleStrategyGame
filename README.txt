@@ -1,5 +1,5 @@
 How to Run:
-Play by dowloading the "Simple-RTS Game" folder and running Simple-RTS.exe inside of it.
+Play by navigating to the "Simple-RTS Game" folder and running Simple-RTS.exe inside of it.
 
 
 
