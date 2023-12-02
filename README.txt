@@ -1,6 +1,4 @@
-How to Run:
-Play by navigating to the "Simple-RTS Game" folder and running Simple-RTS.exe inside of it.
-
+Game can be played here: https://aralsea60.itch.io/simple-strategy-game
 
 
 How to Play:
@@ -15,10 +13,8 @@ How to Play:
 - If your Infantry and Vehicles encounter enemy Infantry and Vehicles, they will attack each other until one of them is defeated. Upgrading a Barracks will allow it to spawn Infantry that have more health and deal more damage. Upgrading a Vehicle Factory will allow it to spawn Vehicles that have more health and deal more damage.
 
 
-
 Credits:
 Created by Matt Mitchell
-
 
 Art Assets:
 
